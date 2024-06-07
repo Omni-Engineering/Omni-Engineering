@@ -1,4 +1,5 @@
 <a rel="me" href="https://fosstodon.org/@muse">Mastodon</a> • 🐈‍⬛ [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)
 <a title="Install github Raycast Extension" href="https://www.raycast.com/raycast/github" previewlistener="true"><img src="https://www.raycast.com/raycast/github/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 <a title="Install asana Raycast Extension" href="https://www.raycast.com/raycast/asana" previewlistener="true"><img src="https://www.raycast.com/raycast/asana/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
 <a title="Install browser-bookmarks Raycast Extension" href="https://www.raycast.com/raycast/browser-bookmarks" previewlistener="true"><img src="https://www.raycast.com/raycast/browser-bookmarks/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>

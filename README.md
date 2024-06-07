@@ -19,6 +19,6 @@
         alt="ORCID iD icon"/>
       [https://orcid.org/0009-0005-8910-570X]
     </a>
-[https://Weldhappy.Grafana.net] 🍷
+[https://Weldhapi.Grafana.net] 🍷 [https://Weldhappy.Grafana.net]
 [https://MetaTesty.SquareSpace.com] 🧑🏻‍🏭
 [https://EnergyStar.gov] 💡 [https://innerAwakening.me] ⚡ [https://heLium.me] 🇨🇭 [https://heaLthCare.gov]

@@ -22,4 +22,4 @@
 [https://Weldhapi.Grafana.net] 🍷 [https://Weldhappy.Grafana.net]
 [https://MetaTesty.SquareSpace.com] 🧑🏻‍🏭
 [https://EnergyStar.gov] 💡 [https://innerAwakening.me] ⚡ [https://heLium.me] 🇨🇭 [https://heaLthCare.gov]
-[https://Osha.gov]
+[https://Osha.gov] [https://cDc.gov]

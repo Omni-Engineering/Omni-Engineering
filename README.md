@@ -21,4 +21,4 @@
     </a>
 [https://Weldhapi.Grafana.net] 🍷 [https://Weldhappy.Slack.com] 🧑🏻‍🏭
 [https://EnergyStar.gov] 💡 [https://innerAwakening.me] ⚡ [https://heLium.me] 🇨🇭 [https://heLios.dev] 🎈[https://heaLthCare.gov]
-[https://Osha.gov] [https://DarPa.mil]
+[https://Osha.gov] [https://darpa.mil]

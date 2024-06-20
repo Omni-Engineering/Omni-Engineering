@@ -20,5 +20,5 @@
       [https://orcid.org/0009-0005-8910-570X]
     </a>
 [https://Weldhapi.Grafana.net] 🍷 [https://Weldhappy.Slack.com] 🧑🏻‍🏭
-[https://EnergyStar.gov] 💡 [https://innerAwakening.me] ⚡ [https://heLium.me] 🇨🇭 [https://heLios.dev] 🎈[https://heaLthCare.gov]
+[https://EnergyStar.gov] 💡 [https://innerAwakening.me] ⚡ [https://heLium.me] 🇨🇭 [https://heLios.dev][https://heaLthCare.gov]
 [https://Osha.gov] [https://cDc.gov]

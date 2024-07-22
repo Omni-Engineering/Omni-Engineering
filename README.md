@@ -19,3 +19,4 @@
         alt="ORCID iD icon"/>
       [https://orcid.org/0009-0005-8910-570X]
     </a>
+<iframe src="https://truthsocial.com/@Weldhappy/112831640700523340/embed" class="truthsocial-embed" style="max-width: 100%; border: 0" width="600" allowfullscreen="allowfullscreen"></iframe><script src="https://truthsocial.com/embed.js" async="async"></script>

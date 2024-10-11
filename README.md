@@ -21,4 +21,4 @@
         alt="ORCID iD icon"/>
       [https://orcid.org/0009-0005-8910-570X]
     </a>
-<a href="http://zello.me/k/iP3QL">Weldhappy.eth</a>
+<a href="https://zello.me/k/iP3QL">Weldhappy.eth</a>

@@ -25,4 +25,4 @@
 <a rel="me"
 href="https://bandcamp.com/EmbeddedPlayer/album=1444126517/size=large/bgcol=333333/linkcol=4ec5ec/transparent=true">OmniSolaris</a>
 <a rel="me"
-href="https://Weldhappy.komi.io">Komî</a>
+href="https://us.soundon.global/artist/bio/h00pie">h00pie</a>

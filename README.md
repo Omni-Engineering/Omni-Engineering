@@ -27,4 +27,4 @@ href="https://bandcamp.com/EmbeddedPlayer/album=1444126517/size=large/bgcol=3333
 <a rel="me"
 href="https://us.soundon.global/artist/bio/h00pie">h00pie</a>
 <a rel="me"
-href="https://Throne.com/Weldhappy">Merch</a>
+href="https://Throne.com/Weldhappy">ePub</a>

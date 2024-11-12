@@ -21,10 +21,10 @@
         alt="ORCID iD icon"/>
       [https://orcid.org/0009-0005-8910-570X]
     </a>
-<a href="https://zello.me/k/iP3QL">Weldhappy.eth</a>
+<a href="https://zello.me/k/iP3QL">Radio</a>
 <a rel="me"
 href="https://bandcamp.com/EmbeddedPlayer/album=1444126517/size=large/bgcol=333333/linkcol=4ec5ec/transparent=true">OmniSolaris</a>
 <a rel="me"
 href="https://us.soundon.global/artist/bio/h00pie">h00pie</a>
 <a rel="me"
-href="https://Throne.com/Weldhappy">ePub</a>
+href="https://Throne.com/Weldhappy"ePub</a>

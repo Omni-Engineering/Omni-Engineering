@@ -1,5 +1,7 @@
 
 <a rel="me" href="https://mastodon.social/@Weldhappy">Mastodon</a>
+<a rel="me"
+href="https://m.soundcloud.com/scott-sunshine-tayor">🧝🏻‍♂️</a>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)
 <a title="Install github Raycast Extension" href="https://www.raycast.com/raycast/github" previewlistener="true"><img src="https://www.raycast.com/raycast/github/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
@@ -29,5 +31,3 @@ href="https://bandcamp.com/EmbeddedPlayer/album=1444126517/size=large/bgcol=3333
 href="https://us.soundon.global/artist/bio/h00pie">h00pie</a>
 <a rel="me" href="https://Throne.com/Weldhappy">ePub</a>
 <blockquote class="snapchat-embed" data-snapchat-embed-width="416" data-snapchat-embed-height="692" data-snapchat-embed-url="https://www.snapchat.com/add/weldhappy.eth/embed" data-snapchat-embed-style="border-radius: 40px;" data-snapchat-embed-title="iFuther ♪" style="background:#C4C4C4; border:0; border-radius:40px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:416px; min-width:326px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px); display: flex; flex-direction: column; position: relative; height:650px;"> <div style="display: flex; flex-direction: row; align-items: center;">  <a title="iFuther ♪" href="https://www.snapchat.com/add/weldhappy.eth" style="background-color: #F4F4F4; border-radius: 50%; flex-grow: 0; height: 40px; width: 40px; margin:16px; cursor: pointer"></a>  <div style="display: flex; flex-direction: column; flex-grow: 1; justify-content: center;"></div> </div> <div style="flex: 1;"></div> <div style="display: flex; flex-direction: row; align-items: center; border-end-end-radius: 40px; border-end-start-radius: 40px;">  <a title="iFuther ♪" href="https://www.snapchat.com/add/weldhappy.eth" style="background-color: yellow; width:100%; padding: 10px 20px; border: none; border-radius: inherit; cursor: pointer; text-align: center; display: flex;flex-direction: row;justify-content: center; text-decoration: none; color: black;">  View more on Snapchat  </a> </div></blockquote>
-<a rel="me"
-href="https://m.soundcloud.com/scott-sunshine-tayor">🧝🏻‍♂️</a>

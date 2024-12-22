@@ -1,9 +1,7 @@
 
 <a rel="me" href="https://mastodon.social/@Weldhappy">🦣</a>
 <a rel="me"
-href="https://m.soundcloud.com/scott-sunshine-tayor">👨🏻‍🎤</a>
-<a rel="me"
-href="https://soundcloud.com/weldhappy">🛸</a>
+href="https://soundcloud.com/weldhapi">🛸</a>
 <a rel="me"
 href="https://soundcloud.com/OmniSolaris">🧞‍♂️</a>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)

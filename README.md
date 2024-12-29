@@ -6,6 +6,7 @@ href="https://soundcloud.com/weldhapi">🛸</a>
 href="https://soundcloud.com/OmniSolaris">🧞‍♂️</a>
 <a rel="me"
 href="https://www.bandlab.com/band/OmniSolaris">🔆</a>
+<iframe width="560" height="353" src="https://www.bandlab.com/embed/collection/?id=e4d85e39-0ec6-ef11-88cf-000d3a930b95" allowfullscreen></iframe>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)
 <a title="Install github Raycast Extension" href="https://www.raycast.com/raycast/github" previewlistener="true"><img src="https://www.raycast.com/raycast/github/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>

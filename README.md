@@ -8,6 +8,7 @@ href="https://soundcloud.com/OmniSolaris">🧞‍♂️</a>
 href="https://www.bandlab.com/band/OmniSolaris">🧝🏻‍♂️</a>
 <a rel="me"
 href="https://www.bandlab.com/h00pie/albums/e4d85e39-0ec6-ef11-88cf-000d3a930b95">💿</a>
+<iframe src="undefined/embed/agent-141/song/psychikos" scrolling="no" width="100%" height="252" scrollbars="no" frameborder="0"></iframe>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)
 <a title="Install github Raycast Extension" href="https://www.raycast.com/raycast/github" previewlistener="true"><img src="https://www.raycast.com/raycast/github/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>

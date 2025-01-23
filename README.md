@@ -1,5 +1,5 @@
 
-<a rel="me" href="https://mastodon.social/@Weldhappy">🦣</a>
+<a rel="me" href="https://www.ReverbNation.com/OmniSolaris">✨</a>
 <a rel="me"
 href="https://soundcloud.com/weldhapi">🛸</a>
 <a rel="me"

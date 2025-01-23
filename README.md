@@ -12,6 +12,8 @@ href="https://www.bandlab.com/h00pie/albums/e4d85e39-0ec6-ef11-88cf-000d3a930b95
 href="https://audiomack.com/weldhappy/song/psychikos?share-user-id=150462769">🥁</a>
 <a rel="me"
 href="https://www.bandlab.com/embed/collection/?id=73509934-0d5f-e811-80c3-00155d6537a3">📻</a>
+<a rel="me"
+href="https://songtr.ee/artist/11386562/Weldhappy.eth">🎄</a>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)
 <a title="Install github Raycast Extension" href="https://www.raycast.com/raycast/github" previewlistener="true"><img src="https://www.raycast.com/raycast/github/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>

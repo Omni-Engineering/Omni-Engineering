@@ -1,6 +1,4 @@
-
-<a rel="me" href="https://cb.run/XPmC"
-<a rel="me">🎗️</a>
+<a rel="me" href="https://cb.run/XPmC">🎗️</a>
 <a rel="me" href="https://www.ReverbNation.com/OmniSolaris">✨</a>
 <a rel="me"
 href="https://soundcloud.com/weldhapi">🛸</a>

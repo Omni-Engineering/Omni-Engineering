@@ -1,3 +1,4 @@
+<a rel="me" href="https://weldhappy-metaworx.teachable.com/admin/sales/34778923?utm_campaign=chargeback_notification&utm_medium=email&utm_source=chargeback_mailer">👩🏻‍🎓</a>
 <a rel="me" href="https://cb.run/XPmC">🎗️</a>
 <a rel="me" href="https://www.ReverbNation.com/OmniSolaris">✨</a>
 <a rel="me"

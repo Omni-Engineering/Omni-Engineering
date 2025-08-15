@@ -1,5 +1,8 @@
 <a rel="me" href="https://weldhappy-metaworx.teachable.com/">👩🏻‍🎓</a>
 <a rel="me" href="https://cb.run/XPmC">🎗️</a>
+<a rel="me"
+href="https://Throne.com/h00pie">👑</a>
+<a rel="me"
 <a rel="me" href="https://www.ReverbNation.com/OmniSolaris">✨</a>
 <a rel="me"
 href="https://soundcloud.com/h00pie">🛸</a>

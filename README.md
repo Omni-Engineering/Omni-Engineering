@@ -1,3 +1,4 @@
+<a rel="me" href="https://www.instaGram.com/">📸</a>
 <a rel="me" href="https://www.paypal.com/paypalme/weldhappy">🅿️</a>
 <a rel="me" href="https://teams.live.com/meet/9310193610114?p=RxSTJHYBYU6XZhNA4k">🪟</a>
 <a rel="me" href="https://Renogy.itch.io/">🎮</a>

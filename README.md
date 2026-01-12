@@ -1,6 +1,7 @@
 <a rel="me" href="https://www.instaGram.com/weldhappy.eth/">📸</a>
 <a rel="me" href="https://www.paypal.com/paypalme/weldhappy">🅿️</a>
 <a rel="me" href="https://teams.live.com/meet/9310193610114?p=RxSTJHYBYU6XZhNA4k">🪟</a>
+<a rel="me" href="https://www.onlyFans.com/cherry.tv">🍒</a>
 <a rel="me" href="https://Renogy.itch.io/">🎮</a>
 <a rel="me" href="https://www.TikTok.com/@PayPal.tv">🪇</a>
 <a rel="me" href="https://weldhappy-metaworx.teachable.com/">👩🏻‍🎓</a>

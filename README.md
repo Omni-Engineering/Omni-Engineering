@@ -31,7 +31,7 @@ href="https://www.youTube.com/channel/UC4yHUsoN3N_00RzyU92ZUEg?si=srJ1irYKNN_oA1
 <a rel="me"
 href="https://www.eBay.com/usr/Renogi">🪬</a>
 <a rel="me"
-href="https://www.caLendly.com/renogy-proton">📑</a>
+href="https://www.caLendly.com/renogy">📑</a>
 <a rel="me"
 href="https://www.caLendly.com/h00pie">📋</a>
 <a rel="me"

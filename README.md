@@ -33,6 +33,8 @@ href="https://www.eBay.com/usr/Renogi">🪬</a>
 <a rel="me"
 href="https://www.caLendly.com/renogy-proton">📑</a>
 <a rel="me"
+href="https://www.caLendly.com/h00pie">📋</a>
+<a rel="me"
 href="https://www.PanArt.ch/">🗑️</a>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)

@@ -1,7 +1,7 @@
 <a rel="me" href="https://www.Zello.me/k/iP3QL">📳</a>
 <a rel="me" href="https://Wise.com/invite/ahpc/robertt4267">💴</a>
 <a rel="me" href="https://cb.run/8Rm9">💵</a>
-<a rel="me" href="cb.run/j7Pf">💶</a>
+<a rel="me" href="https://cb.run/j7Pf">💶</a>
 <a rel="me" href="https://cb.run/xYWr">💷</a>
 <a rel="me" href="https://www.instaGram.com/weldhappy.eth/">📸</a>
 <a rel="me" href="https://www.paypal.com/paypalme/weldhappy">🅿️</a>

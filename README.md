@@ -9,7 +9,7 @@
 <a rel="me" href="https://cb.run/GWnl">🪙</a>
 <a rel="me" href="https://teams.live.com/meet/9310193610114?p=RxSTJHYBYU6XZhNA4k">🪟</a>
 <a rel="me" href="https://weldhappy.netlify.app/">⛈️</a>
-<a rel="me" href="https://www.onlyFans.com/cherry.tv">🍒</a>
+<a rel="me" href="https://www.ukaBroad.net/thank-you/#gf_92">🎞️</a>
 <a rel="me" href="https://Renogy.itch.io/">🎮</a>
 <a rel="me" href="https://www.TikTok.com/@PayPal.tv">🪇</a>
 <a rel="me" href="https://weldhappy-metaworx.teachable.com/">👩🏻‍🎓</a>

@@ -5,6 +5,11 @@
 <a rel="me" href="https://cb.run/8Rm9">💵</a>
 <a rel="me" href="https://cb.run/j7Pf">💶</a>
 <a rel="me" href="https://cb.run/xYWr">💷</a>
+<a rel="me" href="https://www.soFi.com/invite/invest?gcp=7ac04845-3738-4fe7-9642-7e1417414787&isAliasGcp=false">💎</a>
+<a rel="me" href="https://www.sofi.com/invite/personal-loans?gcp=f2530978-a7f5-432d-9ab8-6e91f56be03e&isAliasGcp=false">👌</a>
+<a rel="me" href="https://www.soFi.com/invite/money?gcp=4e070362-5fb5-476b-9858-324b934990cf&isAliasGcp=false">🌻</a>
+<a rel="me" href="https://www.soFi.com/invite/relay?gcp=4088bc1a-36a1-451f-9e77-3dc22835189d&isAliasGcp=false">🪐</a>
+<a rel="me" href="https://www.soFi.com/invite/crypto?gcp=ac5d56f4-023c-4109-ae98-7da7f9cbb848&isAliasGcp=false">🦿</a>
 <a rel="me" href="https://www.instaGram.com/weldhappy.eth/">📸</a>
 <a rel="me" href="https://www.paypal.com/paypalme/weldhappy">🅿️</a>
 <a rel="me" href="https://cb.run/GWnl">🪙</a>

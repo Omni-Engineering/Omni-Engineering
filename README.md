@@ -17,6 +17,7 @@
 <a rel="me" href="https://www.ukaBroad.net/thank-you/#gf_92">🎞️</a>
 <a rel="me" href="https://Renogy.itch.io/">🎮</a>
 <a rel="me" href="https://weldhappy-metaworx.teachable.com/">👩🏻‍🎓</a>
+<a rel="me" href="https://olivia.paraDox.ai/">🤖</a>
 <a rel="me" href="https://www.horiZon.meta.com/profile/799119723277581/?hwsh=4XOAtJeNyz">♾️</a>
 <a rel="me" href="https://cb.run/XPmC">🎗️</a>
 <a rel="me"

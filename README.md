@@ -6,6 +6,7 @@
 <a rel="me" href="https://cb.run/8Rm9">💵</a>
 <a rel="me" href="https://cb.run/j7Pf">💶</a>
 <a rel="me" href="https://cb.run/xYWr">💷</a>
+<a rel="me" href="https://web.onePay.com/wlink/refer-a-friend?product=one_banking&referral_code=vhQLhL2Ue&referrer_campaign_id=campaign.db1edd0a-4a5b-4651-8c20-d0fb7e98fec5">🍿</a>
 <a rel="me" href="https://www.soFi.com/invite/invest?gcp=7ac04845-3738-4fe7-9642-7e1417414787&isAliasGcp=false">💎</a>
 <a rel="me" href="https://www.sofi.com/invite/personal-loans?gcp=f2530978-a7f5-432d-9ab8-6e91f56be03e&isAliasGcp=false">👌</a>
 <a rel="me" href="https://www.soFi.com/invite/money?gcp=4e070362-5fb5-476b-9858-324b934990cf&isAliasGcp=false">🌻</a>

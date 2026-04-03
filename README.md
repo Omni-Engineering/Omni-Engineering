@@ -7,6 +7,7 @@
 <a rel="me" href="https://cb.run/8Rm9">💵</a>
 <a rel="me" href="https://cb.run/j7Pf">💶</a>
 <a rel="me" href="https://cb.run/xYWr">💷</a>
+<a rel="me" href="https://app.chime.com/enroll/account?QTM_SID=526c21679b17d9ea5313ab5a4d295655&QTM_UID=f485fb7561cefe1a8fd84a5cae74ae47&ad=boost_fy_web&utm_campaign=boost_freeyear&utm_medium=web&utm_source=boost&landing_page_origin=boostfreeyear">🪪</a>
 <a rel="me" href="https://web.onePay.com/wlink/refer-a-friend?product=one_banking&referral_code=vhQLhL2Ue&referrer_campaign_id=campaign.db1edd0a-4a5b-4651-8c20-d0fb7e98fec5">🍿</a>
 <a rel="me" href="https://www.soFi.com/invite/invest?gcp=7ac04845-3738-4fe7-9642-7e1417414787&isAliasGcp=false">💎</a>
 <a rel="me" href="https://www.sofi.com/invite/personal-loans?gcp=f2530978-a7f5-432d-9ab8-6e91f56be03e&isAliasGcp=false">👌</a>

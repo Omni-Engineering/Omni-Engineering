@@ -23,7 +23,7 @@
 <a rel="me" href="https://Renogy.itch.io/">🎮</a>
 <a rel="me" href="https://weldhappy-metaworx.teachable.com/">👩🏻‍🎓</a>
 <a rel="me" href="https://olivia.paraDox.ai/">🤖</a>
-<a rel="me" href="https://www.horiZon.meta.com/profile/799119723277581/?hwsh=4XOAtJeNyz">♾️</a>
+<a rel="me" href="https://horizon.meta.com/profile/747341791802603/?hwsh=oZHMF87IdB&utm_source=twilight&utm_medium=SHARE&utm_parent=SHARING&utm_cohort=ORGANIC_UNKNOWN">♾️</a>
 <a rel="me" href="https://cb.run/XPmC">🎗️</a>
 <a rel="me"
 href="https://Throne.com/Renogy">👑</a>

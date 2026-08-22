@@ -16,6 +16,7 @@
 <a rel="me" href="https://www.soFi.com/invite/crypto?gcp=ac5d56f4-023c-4109-ae98-7da7f9cbb848&isAliasGcp=false">🦿</a>
 <a rel="me" href="https://www.payPal.com/paypalme/weldhappy">🅿️</a>
 <a rel="me" href="https://www.paypal.com/paypalme/OmniSolaris">🏗️</a>
+<a rel="me" href="https://Weldhappy.com/sq/pay/me">🧑‍🏭</a>
 <a rel="me" href="https://cb.run/GWnl">🪙</a>
 <a rel="me" href="https://teams.live.com/meet/9310193610114?p=RxSTJHYBYU6XZhNA4k">🪟</a>
 <a rel="me" href="https://weldhappy.netlify.app/">⛈️</a>

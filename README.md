@@ -61,6 +61,8 @@ href="https://eyeCon-app.com/vrs/evid-h538tXOzO2ME">☎️</a>
 href="https://www.revoLut.com/referral/?referral-code=jobstldl!FEB1-26-AR-US-REFBLOCK&geo-redirect">🏧</a>
 <a rel="me"
 href="https://www.TopCashBack.com/ref/member945983634931">🛒</a>
+<a rel="me"
+href="https://FinSta.app/renogy">🦈</a>
 [![built with Codium](https://codeium.com/badges/main)](https://codeium.com)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/606fbd50-7b60-4576-9f23-5871ff015f58/deploy-status)](https://app.netlify.com/sites/weldhappy/deploys)
 <a title="Install github Raycast Extension" href="https://www.raycast.com/raycast/github" previewlistener="true"><img src="https://www.raycast.com/raycast/github/install_button@2x.png?v=1.1" height="64" alt="" style="height: 64px;"></a>
